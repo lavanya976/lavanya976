@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi, I'm Lavanya 👋
+
+🎓 BTech CSE student (2nd Year) at GITM, Gurgaon  
+💻 Learning Python, C++ and Data Structures & Algorithms  
+🚀 Building beginner-friendly projects and improving consistency  
+
+### 🛠 Skills
+- Python
+- C++
+- DSA (Learning)
+- Git & GitHub
+
+### 📌 Projects
+- Age Calculator (Python)
+- Guess the Number Game (Python)
+
+✨ Always learning and improving
+
 
 <!--
 **lavanya976/lavanya976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
